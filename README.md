@@ -1,1 +1,4 @@
-# text-to-speech
+- 👋 Hi, I’m @ayush-penumatsa
+- 👀 I’m interested in teaching programming
+- 🌱 I’m currently working in a multinational company
+- 📫 You can reach me through instagram @ayush_penumatsa or mail ayushpenumatsaofficial@gmail.com
